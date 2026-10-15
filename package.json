@@ -1,0 +1,7 @@
+﻿{
+  "name": "devops-test1-giang",
+  "version": "1.0.0",
+  "scripts": {
+    "build": "node build.js"
+  }
+}
